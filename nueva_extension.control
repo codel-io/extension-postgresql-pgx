@@ -1,0 +1,5 @@
+comment = 'nueva_extension:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/nueva_extension'
+relocatable = false
+superuser = false
